@@ -17,3 +17,5 @@ Console.WriteLine();
 Console.WriteLine("Here's Your Full Name: "+firstName+" "+lastName);
 Console.WriteLine();
 Console.WriteLine("Thank You for Using My Greeting Application!!");
+//Special Learning: Never Trust any User Input Without Validating It First.They can 
+//Name like 42,69 or a full line or anything which may break your code.
