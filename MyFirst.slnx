@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MyFirst/MyFirst.csproj" />
+  <Project Path="ReadWriteBasics/ReadWriteBasics.csproj" Id="99e2b1f8-ef96-4b7f-9882-026799fa360e" />
+</Solution>
