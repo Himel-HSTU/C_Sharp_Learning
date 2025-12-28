@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="GreetingApplication/GreetingApplication.csproj" Id="d005129e-9975-4f95-9289-7643f44e8f1c" />
+  <Project Path="integer_basics/integer_basics.csproj" Id="1f725aa7-54ef-4cb9-b340-e50ff8c4938a" />
   <Project Path="MyFirst/MyFirst.csproj" />
   <Project Path="ReadWriteBasics/ReadWriteBasics.csproj" Id="99e2b1f8-ef96-4b7f-9882-026799fa360e" />
+  <Project Path="string_basics/string_basics.csproj" Id="a2bf7856-8190-49fa-b8ba-ce60aee81d78" />
 </Solution>
