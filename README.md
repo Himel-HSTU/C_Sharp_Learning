@@ -32,8 +32,8 @@ Each file is written in a **note-style format**, with detailed comments so that 
 
 - Language: **C#**
 - Runtime: **.NET**
-- Editor: **VS Code**
-- OS: **Windows**
+- Editor: **Microsoft Visual Studio**
+- OS: **Windows 11**
 - Version Control: **Git & GitHub**
 
 ---
