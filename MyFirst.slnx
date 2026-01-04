@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="DataTypesAndVariables/DataTypesAndVariables.csproj" Id="3098849a-5f39-4e8c-9301-df01b8842c1f" />
   <Project Path="GreetingApplication/GreetingApplication.csproj" Id="d005129e-9975-4f95-9289-7643f44e8f1c" />
   <Project Path="integer_basics/datatypes_variables.csproj" Id="1f725aa7-54ef-4cb9-b340-e50ff8c4938a" />
   <Project Path="MyFirst/MyFirst.csproj" />
