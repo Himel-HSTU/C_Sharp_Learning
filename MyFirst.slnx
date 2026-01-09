@@ -4,7 +4,9 @@
   <Project Path="DataTypesAndVariables/DataTypesAndVariables.csproj" Id="3098849a-5f39-4e8c-9301-df01b8842c1f" />
   <Project Path="Date&amp;Time/Date&amp;Time.csproj" Id="1b296447-10b4-43cd-9f72-c2cf311b2f44" />
   <Project Path="GreetingApplication/GreetingApplication.csproj" Id="d005129e-9975-4f95-9289-7643f44e8f1c" />
+  <Project Path="HW_Arrays/HW_Arrays.csproj" Id="6bccf253-bee3-4e0b-9ed8-102fc2424894" />
   <Project Path="integer_basics/datatypes_variables.csproj" Id="1f725aa7-54ef-4cb9-b340-e50ff8c4938a" />
+  <Project Path="Lists/Lists.csproj" Id="c49c3641-6de5-45ba-90ba-c4f546ab40d5" />
   <Project Path="LoopsAll/LoopsAll.csproj" Id="72c5ad4e-6c9e-47e8-a715-587dffae7bb5" />
   <Project Path="MyFirst/MyFirst.csproj" />
   <Project Path="ReadWriteBasics/ReadWriteBasics.csproj" Id="99e2b1f8-ef96-4b7f-9882-026799fa360e" />
