@@ -9,6 +9,7 @@
   <Project Path="integer_basics/datatypes_variables.csproj" Id="1f725aa7-54ef-4cb9-b340-e50ff8c4938a" />
   <Project Path="Lists/Lists.csproj" Id="c49c3641-6de5-45ba-90ba-c4f546ab40d5" />
   <Project Path="LoopsAll/LoopsAll.csproj" Id="72c5ad4e-6c9e-47e8-a715-587dffae7bb5" />
+  <Project Path="Methods/Methods.csproj" Id="9080a87b-cc40-43f3-a4be-1aeb6848bef4" />
   <Project Path="MyFirst/MyFirst.csproj" />
   <Project Path="ReadWriteBasics/ReadWriteBasics.csproj" Id="99e2b1f8-ef96-4b7f-9882-026799fa360e" />
   <Project Path="string_basics/string_basics.csproj" Id="a2bf7856-8190-49fa-b8ba-ce60aee81d78" />
