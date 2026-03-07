@@ -11,7 +11,9 @@
   <Project Path="Lists/Lists.csproj" Id="c49c3641-6de5-45ba-90ba-c4f546ab40d5" />
   <Project Path="LoopsAll/LoopsAll.csproj" Id="72c5ad4e-6c9e-47e8-a715-587dffae7bb5" />
   <Project Path="Methods/Methods.csproj" Id="9080a87b-cc40-43f3-a4be-1aeb6848bef4" />
+  <Project Path="Mini Project - GuestBook/Mini Project - GuestBook.csproj" Id="8db6cc19-49c5-42c6-8c93-57831157f0a7" />
   <Project Path="MyFirst/MyFirst.csproj" />
   <Project Path="ReadWriteBasics/ReadWriteBasics.csproj" Id="99e2b1f8-ef96-4b7f-9882-026799fa360e" />
   <Project Path="string_basics/string_basics.csproj" Id="a2bf7856-8190-49fa-b8ba-ce60aee81d78" />
+  <Project Path="Tuples/Tuples.csproj" Id="133a9f70-7181-489c-abbe-71db1e81b2fb" />
 </Solution>
