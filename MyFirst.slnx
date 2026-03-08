@@ -4,6 +4,7 @@
   <Project Path="ConditionalStatements/ConditionalStatements.csproj" Id="eaaf63e6-ccd9-49e1-b5bd-dfe95481aa1b" />
   <Project Path="DataTypesAndVariables/DataTypesAndVariables.csproj" Id="3098849a-5f39-4e8c-9301-df01b8842c1f" />
   <Project Path="Date&amp;Time/Date&amp;Time.csproj" Id="1b296447-10b4-43cd-9f72-c2cf311b2f44" />
+  <Project Path="Debugging_Basics/Debugging_Basics.csproj" Id="85104d6e-d1ca-4cc1-b4d9-81e48666f7d5" />
   <Project Path="Dictionary/Dictionary.csproj" Id="1a183ec5-69fd-4280-9e3c-4d075ddd2067" />
   <Project Path="GreetingApplication/GreetingApplication.csproj" Id="d005129e-9975-4f95-9289-7643f44e8f1c" />
   <Project Path="HW_Arrays/HW_Arrays.csproj" Id="6bccf253-bee3-4e0b-9ed8-102fc2424894" />
@@ -13,6 +14,7 @@
   <Project Path="Methods/Methods.csproj" Id="9080a87b-cc40-43f3-a4be-1aeb6848bef4" />
   <Project Path="Mini Project - GuestBook/Mini Project - GuestBook.csproj" Id="8db6cc19-49c5-42c6-8c93-57831157f0a7" />
   <Project Path="MyFirst/MyFirst.csproj" />
+  <Project Path="Project_To_Understand_Class/Project_To_Understand_Class.csproj" Id="1a89818e-1aa0-4f95-82e2-946e77e3c78e" />
   <Project Path="ReadWriteBasics/ReadWriteBasics.csproj" Id="99e2b1f8-ef96-4b7f-9882-026799fa360e" />
   <Project Path="string_basics/string_basics.csproj" Id="a2bf7856-8190-49fa-b8ba-ce60aee81d78" />
   <Project Path="Tuples/Tuples.csproj" Id="133a9f70-7181-489c-abbe-71db1e81b2fb" />
