@@ -8,6 +8,7 @@
   <Project Path="Dictionary/Dictionary.csproj" Id="1a183ec5-69fd-4280-9e3c-4d075ddd2067" />
   <Project Path="GreetingApplication/GreetingApplication.csproj" Id="d005129e-9975-4f95-9289-7643f44e8f1c" />
   <Project Path="HW_Arrays/HW_Arrays.csproj" Id="6bccf253-bee3-4e0b-9ed8-102fc2424894" />
+  <Project Path="InstantiatedClass/InstantiatedClass.csproj" Id="ad4defa7-d118-470e-8357-e9a7b54a615f" />
   <Project Path="integer_basics/datatypes_variables.csproj" Id="1f725aa7-54ef-4cb9-b340-e50ff8c4938a" />
   <Project Path="Lists/Lists.csproj" Id="c49c3641-6de5-45ba-90ba-c4f546ab40d5" />
   <Project Path="LoopsAll/LoopsAll.csproj" Id="72c5ad4e-6c9e-47e8-a715-587dffae7bb5" />
