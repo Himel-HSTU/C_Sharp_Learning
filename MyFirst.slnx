@@ -20,6 +20,7 @@
   <Project Path="LoopsAll/LoopsAll.csproj" Id="72c5ad4e-6c9e-47e8-a715-587dffae7bb5" />
   <Project Path="Methods/Methods.csproj" Id="9080a87b-cc40-43f3-a4be-1aeb6848bef4" />
   <Project Path="Mini Project - GuestBook/Mini Project - GuestBook.csproj" Id="8db6cc19-49c5-42c6-8c93-57831157f0a7" />
+  <Project Path="Mini_Project_Inheritance_Interfaces/Mini_Project_Inheritance_Interfaces.csproj" Id="8e393c78-a791-4496-9378-d0071a1dde62" />
   <Project Path="MyFirst/MyFirst.csproj" />
   <Project Path="Project_To_Understand_Class/Project_To_Understand_Class.csproj" Id="1a89818e-1aa0-4f95-82e2-946e77e3c78e" />
   <Project Path="PropertiesType/PropertiesType.csproj" Id="8996c698-b706-4c4a-9ead-7b99dada3d97" />
