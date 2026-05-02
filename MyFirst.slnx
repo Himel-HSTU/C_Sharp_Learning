@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="AbstractClass/AbstractClass.csproj" Id="1ab1d9ae-e50c-4bb5-a5ca-ae532a52e504" />
+  <Project Path="AccessModifiers/AccessModifiers.csproj" Id="35556f84-d109-45b7-9c22-fb65aab2f943" />
   <Project Path="Arrays/Arrays.csproj" Id="c80e7330-1d4a-4dce-a2df-797e903539b5" />
   <Project Path="BattleShipGame/BattleShipGame.csproj" Id="f17ec535-5b4e-4f0f-a915-33b93ab00a9b" />
   <Project Path="BattleShipGameClassLibrary/BattleShipGameClassLibrary.csproj" Id="00eef5ed-f24d-4079-8d50-1cbeff1e1881" />
@@ -9,6 +11,7 @@
   <Project Path="DataTypesAndVariables/DataTypesAndVariables.csproj" Id="3098849a-5f39-4e8c-9301-df01b8842c1f" />
   <Project Path="Date&amp;Time/Date&amp;Time.csproj" Id="1b296447-10b4-43cd-9f72-c2cf311b2f44" />
   <Project Path="Debugging_Basics/Debugging_Basics.csproj" Id="85104d6e-d1ca-4cc1-b4d9-81e48666f7d5" />
+  <Project Path="DemoLibrary/DemoLibrary.csproj" Id="026d7c00-d373-4422-97f6-25ad2c05c37e" />
   <Project Path="Dictionary/Dictionary.csproj" Id="1a183ec5-69fd-4280-9e3c-4d075ddd2067" />
   <Project Path="GreetingApplication/GreetingApplication.csproj" Id="d005129e-9975-4f95-9289-7643f44e8f1c" />
   <Project Path="HW_Arrays/HW_Arrays.csproj" Id="6bccf253-bee3-4e0b-9ed8-102fc2424894" />
