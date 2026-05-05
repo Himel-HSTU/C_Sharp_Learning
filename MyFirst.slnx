@@ -5,6 +5,7 @@
   <Project Path="BattleShipGame/BattleShipGame.csproj" Id="f17ec535-5b4e-4f0f-a915-33b93ab00a9b" />
   <Project Path="BattleShipGameClassLibrary/BattleShipGameClassLibrary.csproj" Id="00eef5ed-f24d-4079-8d50-1cbeff1e1881" />
   <Project Path="CalculatorUsingMethods/CalculatorUsingMethods.csproj" Id="eb25b3c9-1f8f-4a48-b874-b7f174691bda" />
+  <Project Path="CardGameApp/CardGameApp.csproj" Id="e7bc1794-f0cb-4eb1-a2d0-19099145d412" />
   <Project Path="ClassLibraryModelLibrary/ClassLibraryModelLibrary.csproj" Id="65e9f95a-116f-4edb-b71a-75330e191c81" />
   <Project Path="ClassLibraryUI/ClassLibraryUI.csproj" Id="89b1d9ff-99d6-45a4-8e75-b5e8e1e89e7f" />
   <Project Path="ConditionalStatements/ConditionalStatements.csproj" Id="eaaf63e6-ccd9-49e1-b5bd-dfe95481aa1b" />
