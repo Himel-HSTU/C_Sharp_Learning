@@ -14,6 +14,7 @@
   <Project Path="Debugging_Basics/Debugging_Basics.csproj" Id="85104d6e-d1ca-4cc1-b4d9-81e48666f7d5" />
   <Project Path="DemoLibrary/DemoLibrary.csproj" Id="026d7c00-d373-4422-97f6-25ad2c05c37e" />
   <Project Path="Dictionary/Dictionary.csproj" Id="1a183ec5-69fd-4280-9e3c-4d075ddd2067" />
+  <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="921c3a9c-6e6a-4d9b-b79c-6e7b68706094" />
   <Project Path="GreetingApplication/GreetingApplication.csproj" Id="d005129e-9975-4f95-9289-7643f44e8f1c" />
   <Project Path="HW_Arrays/HW_Arrays.csproj" Id="6bccf253-bee3-4e0b-9ed8-102fc2424894" />
   <Project Path="Inheritance/Inheritance.csproj" Id="210ebb94-4ae9-4598-99ff-45de9a8a8589" />
@@ -22,9 +23,11 @@
   <Project Path="Interfaces/Interfaces.csproj" Id="07d1d0ea-6f5c-4b67-9c68-ff9549d83eb0" />
   <Project Path="Lists/Lists.csproj" Id="c49c3641-6de5-45ba-90ba-c4f546ab40d5" />
   <Project Path="LoopsAll/LoopsAll.csproj" Id="72c5ad4e-6c9e-47e8-a715-587dffae7bb5" />
+  <Project Path="MethodOverloading&amp;Polymorphisom/MethodOverloading&amp;Polymorphisom.csproj" Id="a8bb635d-42ff-4ed2-963e-29d0ad599a79" />
   <Project Path="MethodOverriding/MethodOverriding.csproj" Id="558d018d-9219-49cf-95ab-d93cb1373df9" />
   <Project Path="Methods/Methods.csproj" Id="9080a87b-cc40-43f3-a4be-1aeb6848bef4" />
   <Project Path="Mini Project - GuestBook/Mini Project - GuestBook.csproj" Id="8db6cc19-49c5-42c6-8c93-57831157f0a7" />
+  <Project Path="MiniProjectOnExtensionMethods&amp;Overloading/MiniProjectOnExtensionMethods&amp;Overloading.csproj" Id="4dd3f63b-c333-4547-a71d-d8e33bb25f6b" />
   <Project Path="Mini_Project_Inheritance_Interfaces/Mini_Project_Inheritance_Interfaces.csproj" Id="8e393c78-a791-4496-9378-d0071a1dde62" />
   <Project Path="MyFirst/MyFirst.csproj" />
   <Project Path="Project_To_Understand_Class/Project_To_Understand_Class.csproj" Id="1a89818e-1aa0-4f95-82e2-946e77e3c78e" />
