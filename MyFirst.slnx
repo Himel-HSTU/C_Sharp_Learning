@@ -14,7 +14,9 @@
   <Project Path="Debugging_Basics/Debugging_Basics.csproj" Id="85104d6e-d1ca-4cc1-b4d9-81e48666f7d5" />
   <Project Path="DemoLibrary/DemoLibrary.csproj" Id="026d7c00-d373-4422-97f6-25ad2c05c37e" />
   <Project Path="Dictionary/Dictionary.csproj" Id="1a183ec5-69fd-4280-9e3c-4d075ddd2067" />
+  <Project Path="Events/Events.csproj" Id="d5d2a617-fe68-429f-a167-048cabf21e9c" />
   <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="921c3a9c-6e6a-4d9b-b79c-6e7b68706094" />
+  <Project Path="Generics/Generics.csproj" Id="4f07c2c1-00ad-44a7-8212-52fd8a9bfc94" />
   <Project Path="GreetingApplication/GreetingApplication.csproj" Id="d005129e-9975-4f95-9289-7643f44e8f1c" />
   <Project Path="HW_Arrays/HW_Arrays.csproj" Id="6bccf253-bee3-4e0b-9ed8-102fc2424894" />
   <Project Path="Inheritance/Inheritance.csproj" Id="210ebb94-4ae9-4598-99ff-45de9a8a8589" />
