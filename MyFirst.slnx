@@ -6,6 +6,7 @@
   <Project Path="BattleShipGameClassLibrary/BattleShipGameClassLibrary.csproj" Id="00eef5ed-f24d-4079-8d50-1cbeff1e1881" />
   <Project Path="CalculatorUsingMethods/CalculatorUsingMethods.csproj" Id="eb25b3c9-1f8f-4a48-b874-b7f174691bda" />
   <Project Path="CardGameApp/CardGameApp.csproj" Id="e7bc1794-f0cb-4eb1-a2d0-19099145d412" />
+  <Project Path="ClassLibraryDemoApp/ClassLibraryDemoApp.csproj" Id="3b3f2e9c-1adc-4b48-aba0-fc6e678e01fb" />
   <Project Path="ClassLibraryModelLibrary/ClassLibraryModelLibrary.csproj" Id="65e9f95a-116f-4edb-b71a-75330e191c81" />
   <Project Path="ClassLibraryUI/ClassLibraryUI.csproj" Id="89b1d9ff-99d6-45a4-8e75-b5e8e1e89e7f" />
   <Project Path="ConditionalStatements/ConditionalStatements.csproj" Id="eaaf63e6-ccd9-49e1-b5bd-dfe95481aa1b" />
@@ -14,6 +15,8 @@
   <Project Path="Debugging_Basics/Debugging_Basics.csproj" Id="85104d6e-d1ca-4cc1-b4d9-81e48666f7d5" />
   <Project Path="DemoLibrary/DemoLibrary.csproj" Id="026d7c00-d373-4422-97f6-25ad2c05c37e" />
   <Project Path="Dictionary/Dictionary.csproj" Id="1a183ec5-69fd-4280-9e3c-4d075ddd2067" />
+  <Project Path="dotnetFrameworkLibrary/dotnetFrameworkLibrary.csproj" Id="a5d5e332-3d92-48ba-92f4-aca2ca37894f" />
+  <Project Path="dotnetStandardLibrary/dotnetStandardLibrary.csproj" Id="b2298186-b411-48e4-af2a-610ea1fe648e" />
   <Project Path="Events/Events.csproj" Id="d5d2a617-fe68-429f-a167-048cabf21e9c" />
   <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="921c3a9c-6e6a-4d9b-b79c-6e7b68706094" />
   <Project Path="Generics/Generics.csproj" Id="4f07c2c1-00ad-44a7-8212-52fd8a9bfc94" />
