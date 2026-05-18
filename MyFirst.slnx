@@ -40,4 +40,6 @@
   <Project Path="ReadWriteBasics/ReadWriteBasics.csproj" Id="99e2b1f8-ef96-4b7f-9882-026799fa360e" />
   <Project Path="string_basics/string_basics.csproj" Id="a2bf7856-8190-49fa-b8ba-ce60aee81d78" />
   <Project Path="Tuples/Tuples.csproj" Id="133a9f70-7181-489c-abbe-71db1e81b2fb" />
+  <Project Path="UnitTestDemoLibrary.Tests/UnitTestDemoLibrary.Tests.csproj" Id="c0d0b410-8684-420c-a215-52a524ead346" />
+  <Project Path="UnitTestDemoLibrary/UnitTestDemoLibrary.csproj" Id="9c603e53-4528-42f4-8cf9-db2dea8102ca" />
 </Solution>
