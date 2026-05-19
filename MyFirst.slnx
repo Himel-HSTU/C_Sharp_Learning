@@ -14,6 +14,7 @@
   <Project Path="Date&amp;Time/Date&amp;Time.csproj" Id="1b296447-10b4-43cd-9f72-c2cf311b2f44" />
   <Project Path="Debugging_Basics/Debugging_Basics.csproj" Id="85104d6e-d1ca-4cc1-b4d9-81e48666f7d5" />
   <Project Path="DemoLibrary/DemoLibrary.csproj" Id="026d7c00-d373-4422-97f6-25ad2c05c37e" />
+  <Project Path="DemoLibraryForWinFormMiniProject/DemoLibraryForWinFormMiniProject.csproj" Id="1d1405cf-29f3-45ff-a658-9dd720af7794" />
   <Project Path="Dictionary/Dictionary.csproj" Id="1a183ec5-69fd-4280-9e3c-4d075ddd2067" />
   <Project Path="dotnetFrameworkLibrary/dotnetFrameworkLibrary.csproj" Id="a5d5e332-3d92-48ba-92f4-aca2ca37894f" />
   <Project Path="dotnetStandardLibrary/dotnetStandardLibrary.csproj" Id="b2298186-b411-48e4-af2a-610ea1fe648e" />
@@ -37,9 +38,11 @@
   <Project Path="MyFirst/MyFirst.csproj" />
   <Project Path="Project_To_Understand_Class/Project_To_Understand_Class.csproj" Id="1a89818e-1aa0-4f95-82e2-946e77e3c78e" />
   <Project Path="PropertiesType/PropertiesType.csproj" Id="8996c698-b706-4c4a-9ead-7b99dada3d97" />
+  <Project Path="RazorMessageWallDemo/RazorMessageWallDemo.csproj" Id="00303fed-dd9e-4d81-853f-e24ca3fab03d" />
   <Project Path="ReadWriteBasics/ReadWriteBasics.csproj" Id="99e2b1f8-ef96-4b7f-9882-026799fa360e" />
   <Project Path="string_basics/string_basics.csproj" Id="a2bf7856-8190-49fa-b8ba-ce60aee81d78" />
   <Project Path="Tuples/Tuples.csproj" Id="133a9f70-7181-489c-abbe-71db1e81b2fb" />
   <Project Path="UnitTestDemoLibrary.Tests/UnitTestDemoLibrary.Tests.csproj" Id="c0d0b410-8684-420c-a215-52a524ead346" />
   <Project Path="UnitTestDemoLibrary/UnitTestDemoLibrary.csproj" Id="9c603e53-4528-42f4-8cf9-db2dea8102ca" />
+  <Project Path="WinFormMiniProject/WinFormMiniProject.csproj" Id="0ddf97a6-a05a-45a8-ab59-096b0a5dda42" />
 </Solution>
